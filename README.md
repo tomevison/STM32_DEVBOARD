@@ -10,3 +10,5 @@ Board features a STM32F401RCT6 MCU with a number of peripherals.
 - User LED
 - USB-C COM Port
 - 4-30 VDC input range
+
+![Render of PCB](./images/STM32_DEVBOARD.png)
