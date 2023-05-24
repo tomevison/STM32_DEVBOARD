@@ -4291,7 +4291,7 @@
   (gr_text "GND" (at 91.694 97.917 90) (layer "F.SilkS") (tstamp 7bda3228-8d6f-4ad1-a7bc-11382cdf8c1e)
     (effects (font (size 1 1) (thickness 0.125)) (justify right bottom))
   )
-  (gr_text "STM32 \nDevboard" (at 63.754 124.206) (layer "F.SilkS") (tstamp 8d572d61-7a77-489e-a5b6-5d135060a4e4)
+  (gr_text "STM32 \nDevboard" (at 63.754 123.952) (layer "F.SilkS") (tstamp 8d572d61-7a77-489e-a5b6-5d135060a4e4)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
   (gr_text "3.3V" (at 88.9 97.917 90) (layer "F.SilkS") (tstamp 9fd5cffd-22b3-4f2b-8e16-de445aaf37f7)
