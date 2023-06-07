@@ -1,0 +1,6 @@
+../Core/Src/BME280.c:11:10:BME280_Init	32	static
+../Core/Src/BME280.c:36:1:BME280_setMode	16	static
+../Core/Src/BME280.c:62:1:BME280_setTempOS	4	static
+../Core/Src/BME280.c:65:1:BME280_setPresOS	4	static
+../Core/Src/BME280.c:68:1:BME280_setHumdOS	16	static
+../Core/Src/BME280.c:83:10:BME280_getHumd	16	static
