@@ -1,5 +1,7 @@
 "./Core/Src/BME280.o"
+"./Core/Src/LIS2DW12.o"
 "./Core/Src/main.o"
+"./Core/Src/piezo.o"
 "./Core/Src/stm32f4xx_hal_msp.o"
 "./Core/Src/stm32f4xx_it.o"
 "./Core/Src/syscalls.o"
